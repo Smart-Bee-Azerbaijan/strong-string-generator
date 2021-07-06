@@ -1,4 +1,4 @@
-# ::lock_with_ink_pen:: Strong String Generator
+# :lock_with_ink_pen: Strong String Generator
 
 Strong String Generator from Smartbee. Easy to use and can be used for strong passwords.
 
@@ -15,7 +15,8 @@ Strong String Generator from Smartbee. Easy to use and can be used for strong pa
 
 ## Default Variables
 
-Class uses min-lenght as ```26``` charachters and uses alphabet set as ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789?#$!@`.~^&*-_+={}[]|()%```. You can set max-lenght and character set when you call class. As Example
+Class uses min-lenght as ```26``` charachters and uses alphabet set as ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789?#$!@`.~^&*-_+={}[]|()%```.
+You can set max-lenght and character set when you call class. As Example
 
 ```php
 

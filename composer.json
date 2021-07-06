@@ -1,0 +1,17 @@
+{
+    "name": "smartbee/strong-string-generator",
+    "description": "Strong String generator from Smartbee",
+    "type": "library",
+    "homepage": "https://smartbee.az",
+    "keywords": ["strong","string","generator","password"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "serkanalgur",
+            "email": "info@wpadami.com"
+        }
+    ],
+    "require": {
+        "php": ">7.0"
+    }
+}

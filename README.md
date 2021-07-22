@@ -6,7 +6,7 @@ Strong String Generator from Smartbee. Easy to use and can be used for strong pa
 
 ```php
 
-  $password = new StrongStringGenerator();
+  $password = new Smartbee\StrongStringGenerator();
   echo $password->CreateStrongString();
 
   // Sample Output should be like cg^U*t{BD^6xzUgk+|YV@iPkh4
@@ -20,7 +20,7 @@ You can set max-lenght and character set when you call class. As Example
 
 ```php
 
-  $password = new StrongStringGenerator(13,"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz");
+  $password = new Smartbee\StrongStringGenerator(13,"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz");
   echo $password->CreateStrongString();
 
   // Sample Output should be like BrQSBFSPBcBcB

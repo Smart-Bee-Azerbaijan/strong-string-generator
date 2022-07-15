@@ -2,6 +2,15 @@
 
 Strong String Generator from Smartbee. Easy to use and can be used for strong passwords.
 
+## Install
+### With Composer
+```sh
+$ composer require smartbee/strong-string-generator
+```
+
+### Normal usage
+Install like normal class...
+
 ## Usage
 
 ```php

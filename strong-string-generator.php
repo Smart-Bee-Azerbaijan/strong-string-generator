@@ -1,5 +1,10 @@
 <?php
 
+/**
+Name: Strong String Generator
+Version: 1.0.0
+ */
+
 namespace Smartbee;
 
 class StrongStringGenerator
